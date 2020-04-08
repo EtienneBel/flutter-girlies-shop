@@ -1,0 +1,4 @@
+#Tue Apr 07 22:58:08 UTC 2020
+base.0=D\:\\Gestion de Projets\\Dev_Mobile\\flutter_girlies_shop\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

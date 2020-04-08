@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Gestion de Projets\\Dev_Mobile\\flutter_girlies_shop\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-is\\values-is.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Etienne BELEMGNEGRE\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\785db7a0a594664dff1371aa30ff7d94\\res\\values-is\\values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
