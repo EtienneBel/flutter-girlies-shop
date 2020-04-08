@@ -1,4 +1,4 @@
-# flutter_ui_app
+# flutter_ui_app --> flutter_girlies_shop
 
 A new Flutter application.
 
